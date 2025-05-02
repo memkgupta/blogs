@@ -10,7 +10,7 @@ ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1745927572177/35ad4
 
 ---
 
-Hello everyone , in this article we will learn about kafka and how can we use it in our spring boot application.
+Hello everyone ,today we will learn about kafka and how can we use it in our spring boot application.
 
 So starting with what is Kafka ?
 
